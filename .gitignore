@@ -2,3 +2,12 @@ __pycache__/
 model.pth
 model_and_optimizer.pth
 gpt2/
+spam_classifier.pth
+sms_spam_collection.zip
+sms_spam_collection
+instruction-data.json
+test.csv
+train.csv
+validation.csv
+instruction-data-with-response.json
+gpt2-small124M-sft.pth
