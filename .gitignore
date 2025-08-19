@@ -11,3 +11,4 @@ train.csv
 validation.csv
 instruction-data-with-response.json
 gpt2-small124M-sft.pth
+llm_from_scratch.ipynb
